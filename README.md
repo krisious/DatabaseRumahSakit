@@ -4,7 +4,7 @@ This is a program that me and my team made for the final project of programming 
 It aims to assist the process of recording data for doctors, patients, and drugs in hospital.
 
 All the program is develop by using C language.
-The fiture are
+The fitures are
 - Adding data
 - Deleting data
 - Showing data
